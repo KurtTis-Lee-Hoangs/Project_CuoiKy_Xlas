@@ -1,7 +1,7 @@
 import streamlit as st
 import tensorflow as tf
-from tensorflow.keras import datasets
-from tensorflow.keras.models import model_from_json
+from keras import datasets
+from keras.models import model_from_json
 import numpy as np
 import random
 import cv2

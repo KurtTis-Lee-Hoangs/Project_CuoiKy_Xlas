@@ -48,7 +48,7 @@ def run_face_recognition_app():
         FRAME_WINDOW.image(st.session_state.frame_stop, channels='BGR')
 
     svc = joblib.load('pages/utility/NhanDangKhuonMat_Streamlit/svc.pkl')
-    mydict = ['ChiThanh', 'Hoang Phuc', 'Thai Van', 'Thanh Huyen', 'Trong Phuc']
+    mydict = ['Hoang', 'Ky', 'Nam', 'Nhan', 'Phuc']
 
     detector = cv.FaceDetectorYN.create(
         'pages/utility/NhanDangKhuonMat_Streamlit/face_detection_yunet_2023mar.onnx',

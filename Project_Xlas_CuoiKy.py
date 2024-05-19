@@ -16,7 +16,7 @@ st.image(logo, width=800)
 st.markdown(
     """
     ### Website cuối kỳ của môn học: Xử Lý Ảnh Số
-    - Thực hiện bởi: Lê Minh Hoàng và Nguyễn Ttrọng Phúc
+    - Thực hiện bởi: Lê Minh Hoàng và Nguyễn Trọng Phúc
     - Giảng viên hướng dẫn: ThS. Trần Tiến Đức
     - Lớp Xử Lý Ảnh Số nhóm 03: DIPR430685_23_2_03
     """
@@ -34,7 +34,7 @@ st.markdown(
     ### Thông tin liên hệ
     - Facebook: [Minh Hoàng](https://www.facebook.com/profile.php?id=100028798721439) hoặc [Trọng Phúc](https://www.facebook.com/profile.php?id=100045860234345)
     - Email: 21110457@student.hcmute.edu.vn hoặc 21110915@student.hcmute.edu.vn
-    - Lấy source code tại: [đây](???)
+    - Lấy source code tại: [đây](https://github.com/KurtTis-Lee-Hoangs/Project_CuoiKy_Xlas)
     """
 )
 
